@@ -1,0 +1,9 @@
+[
+  {"id":"ecmo","name":"ECMO","blurb":"Veno-venous and veno-arterial support: physiology, candidacy, the service, and the decisions that are harder than the cannulation.","intro":"Start with the physiology episode, then the service episode, then the decision-making one. The echo-for-ECMO material sits under Mechanical support."},
+  {"id":"mechanical-support","name":"Mechanical circulatory support","blurb":"Balloon pumps, VA-ECMO, VADs and the Impella — what each does, how to read it, and what goes wrong.","intro":"The unit view first, then the balloon pump in depth, then the two-part echo guide to every device."},
+  {"id":"bleeding","name":"Bleeding and haemostasis","blurb":"Products, point-of-care tests, protamine, heparin resistance and HIT — the unit half and the theatre half.","intro":"Two companion episodes recorded in the same week, plus the ITACS journal club on anaemia before surgery."},
+  {"id":"bypass","name":"Cardiopulmonary bypass and theatre","blurb":"The circuit and what it does to the patient, vasoplegia, SAM, pacing, and the airway problems specific to cardiothoracics.","intro":"The bypass episode underpins almost everything else in the catalogue."},
+  {"id":"valves","name":"Valves and structural heart","blurb":"Aortic stenosis on the unit, TAVI in the cath lab, and endocarditis from diagnosis to theatre.","intro":"Each subject is a companion pair: the intensive care half and the theatre or cath-lab half."},
+  {"id":"aorta","name":"Aortic emergencies","blurb":"Hypertensive emergencies, dissection, and deep hypothermic circulatory arrest.","intro":"The ICU half on recognition and anti-impulse therapy, then the theatre half on operating when you can't clamp."},
+  {"id":"transplant","name":"Heart and lung transplantation","blurb":"The twelve hours in theatre and the first forty-eight on the unit.","intro":"Almost everything in both episodes comes back to the right ventricle."}
+]

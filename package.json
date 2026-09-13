@@ -1,0 +1,10 @@
+{
+  "name": "cardiac-output-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "episodes": "node scripts/fetch-episodes.mjs",
+    "dev": "node build.mjs && python3 -m http.server 8000 --directory dist"
+  }
+}
