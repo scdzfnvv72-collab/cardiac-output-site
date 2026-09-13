@@ -2,7 +2,7 @@
 const CONFIG = {
   feedUrl: "https://feed.podbean.com/cardiacoutput/feed.xml",
   corsProxy: "https://api.allorigins.win/raw?url=",
-  formEndpoint: "",                      // e.g. https://formspree.io/f/xxxxxxxx — blank falls back to mailto:
+  formEndpoint: "https://formspree.io/f/mnpqkgjb",
   contactEmail: "hello@cardiacoutput.uk",
 };
 const ROOT = document.body.dataset.root || "";
