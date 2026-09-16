@@ -1,0 +1,7 @@
+# local working files for /new-episode (audio downloads, Whisper output, manifest)
+.cache/
+
+# build output and deps
+dist/
+node_modules/
+.DS_Store
